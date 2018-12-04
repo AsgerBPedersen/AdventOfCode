@@ -1,0 +1,6 @@
+C:\Users\pogo\Documents\Visual Studio 2017\Projects\kattis\kattis\bin\Debug\kattis.exe.config
+C:\Users\pogo\Documents\Visual Studio 2017\Projects\kattis\kattis\bin\Debug\kattis.exe
+C:\Users\pogo\Documents\Visual Studio 2017\Projects\kattis\kattis\bin\Debug\kattis.pdb
+C:\Users\pogo\Documents\Visual Studio 2017\Projects\kattis\kattis\obj\Debug\kattis.csprojResolveAssemblyReference.cache
+C:\Users\pogo\Documents\Visual Studio 2017\Projects\kattis\kattis\obj\Debug\kattis.exe
+C:\Users\pogo\Documents\Visual Studio 2017\Projects\kattis\kattis\obj\Debug\kattis.pdb
